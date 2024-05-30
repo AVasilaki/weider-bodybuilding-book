@@ -1,0 +1,19 @@
+{
+  "name": "atlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVasilaki/weider-bodybuilding-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVasilaki/weider-bodybuilding-book/issues"
+  },
+  "homepage": "https://github.com/AVasilaki/weider-bodybuilding-book#readme"
+}
